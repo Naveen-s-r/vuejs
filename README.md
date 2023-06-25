@@ -1,4 +1,4 @@
-# jvlcode
+# Vue project basic CRUD operations
 
 ## Project setup
 ```
